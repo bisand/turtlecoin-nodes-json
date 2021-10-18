@@ -219,7 +219,7 @@
     },
     {
       "name": "PUBLIC SSL TurtleNode NET",
-      "url": "public.turtlenode.net",
+      "url": "public.cdn-turtlenode.net",
       "port": 443,
       "ssl": true,
       "cache": false

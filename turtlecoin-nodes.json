@@ -64,6 +64,13 @@
       "cache": false
     },
     {
+      "name": "Cal State Turtle Node",
+      "url": "node.jeons.club",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Chélone - France",
       "url": "chelone.hopto.org",
       "port": 11898,

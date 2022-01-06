@@ -57,6 +57,13 @@
       "cache": false
     },
     {
+      "name": "Blckflmngo - US West",
+      "url": "trtl.float-zone.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Brazil Turtle Node",
       "url": "brazilnode.ddns.net",
       "port": 11898,

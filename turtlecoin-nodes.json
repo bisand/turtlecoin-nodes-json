@@ -106,20 +106,6 @@
       "cache": false
     },
     {
-      "name": "Cuvéebits - Czech Republic",
-      "url": "cz.turtlecoin4ever.online",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Cuvéebits - Romania",
-      "url": "ro.turtlecoin4ever.online",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Damaceno's lab node - South America",
       "url": "damacenohomerouter.duckdns.org",
       "port": 11898,

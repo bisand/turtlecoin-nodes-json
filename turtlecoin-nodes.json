@@ -90,6 +90,13 @@
       "port": 443,
       "ssl": true,
       "cache": false
+    },
+    {
+      "name": "US West Node",
+      "url": "trtl.float-zone.com",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }

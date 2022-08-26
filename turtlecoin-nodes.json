@@ -15,6 +15,13 @@
       "cache": false
     },
     {
+      "name": "Cal State Turtle Node",
+      "url": "node.jeons.club",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
       "name": "Donate.TRTL.Bot.Tips",
       "url": "trtl.bot.tips",
       "port": 80,

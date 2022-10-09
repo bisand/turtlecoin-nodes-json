@@ -22,27 +22,6 @@
       "cache": false
     },
     {
-      "name": "Donate.TRTL.Bot.Tips",
-      "url": "trtl.bot.tips",
-      "port": 80,
-      "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "Donate.TRTL.Bot.Tips SSL",
-      "url": "trtl.bot.tips",
-      "port": 443,
-      "ssl": true,
-      "cache": false
-    },
-    {
-      "name": "HarryGames Node [UK]",
-      "url": "trtl.harry.games",
-      "port": 11898,
-      "ssl": false,
-      "cache": false
-    },
-    {
       "name": "Hashvault.pro turtle node",
       "url": "nodes.hashvault.pro",
       "port": 11898,
@@ -68,13 +47,6 @@
       "url": "public.turtlenode.net",
       "port": 11898,
       "ssl": false,
-      "cache": false
-    },
-    {
-      "name": "TurtlePay - Load Balancer",
-      "url": "node.turtlepay.io",
-      "port": 443,
-      "ssl": true,
       "cache": false
     }
   ]

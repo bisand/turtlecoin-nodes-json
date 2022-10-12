@@ -29,6 +29,20 @@
       "cache": false
     },
     {
+      "name": "Nordic Turtle Node - EU",
+      "url": "turtlecoin.publicnode.eu",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
+    },
+    {
+      "name": "Nordic Turtle Node SSL - EU",
+      "url": "turtlecoin.publicnode.eu",
+      "port": 443,
+      "ssl": true,
+      "cache": false
+    },
+    {
       "name": "Mascarin's LAB node - South America",
       "url": "mascarins.duckdns.org",
       "port": 11898,
